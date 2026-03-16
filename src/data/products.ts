@@ -18,7 +18,7 @@ export const fakeProducts: Product[] = [
     etat: 'Excellent',
     typeTransaction: ['vente'],
     images: [
-      'https://images.unsplash.com/photo-1607823489283-1deb240f9e27?w=400',
+      '../../assets/image_product/robe_sirene_brocard.jpeg',
     ],
     marchandage: true,
     boost: false,

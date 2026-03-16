@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOLUL 🇸🇳
 
 **Marketplace de mode sénégalaise** — Achetez, vendez et louez des vêtements traditionnels et modernes entre particuliers.
@@ -140,3 +141,6 @@ Projet réalisé dans le cadre d'un cours d'entrepreneuriat.
 ## 📄 Licence
 
 Ce projet est à usage éducatif.
+=======
+# SOLUL
+>>>>>>> 52d3d9a2773963cf303e1638dc872389ccf0f7f2
