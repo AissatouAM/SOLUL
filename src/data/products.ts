@@ -18,7 +18,7 @@ export const fakeProducts: Product[] = [
     etat: 'Excellent',
     typeTransaction: ['vente'],
     images: [
-      '../../assets/image_product/robe_sirene_brocard.jpeg',
+      require('../../assets/image_product/robe_sirene_brocard.jpeg'),
     ],
     marchandage: true,
     boost: false,
